@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning to be nicer to others.
 - 👯 I’m looking to collaborate on SS7 security.
 - 🤔 I’m looking for help with netconf, ipflow and netflow.
-- 💬 Ask me about Arch Linux.
+- 💬 Ask me about Arch Linux (on AWS, OpenStack and NFV).
 - 📫 How to reach me: bidulock@openss7.org
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wrote my first Chess program with APL in Grade 5 (circa '69) on an IBM 14100 front-end driven by a converted IBM Selectrics Typewriter over an acoustic (Bell 110) modem.
