@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on SS7 load generators and security testers and CloudSS7 distributed STP networks.
 - 🌱 I’m currently learning to be nicer to others.
 - 👯 I’m looking to collaborate on SS7 security.
-- 🤔 I’m looking for help with understanding traditional SS7 networks.
+- 🤔 I’m looking for help with netconf, ipflow and netflow.
 - 💬 Ask me about Arch Linux.
 - 📫 How to reach me: bidulock@openss7.org
 - 😄 Pronouns: He/Him
